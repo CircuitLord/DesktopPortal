@@ -26,7 +26,7 @@ And now, newly open sourced!
 
 ## Installation
 
-1. Install Unity Hub and Unity version <a href="unityhub://2020.3.2f1/8fd9074bf66c">2020.3.2f1<a/>
+1. Install Unity Hub and Unity version <a href="https://unity3d.com/unity/whats-new/2020.3.2">2020.3.2f1<a/>
 2. Git the project using your method of choice.
 3. With the project open, open `/DesktopPortal/FinalScene.scene`
 4. Ensure you have a SteamVR compatibile headset connected and running, and press play. (NOTE: do not install the admin task it prompts from in the editor)
