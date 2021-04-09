@@ -23,6 +23,8 @@ And now, newly open sourced!
 
 NOTE: I apologize for any missing icons/off colors. I had to remove a bunch of paid third party assets that included icons and UI components I was using in order to make this properly open source.
 
+Also, this project optionally uses Odin Inspector! If you have it, simply add it into Assets/Plugins/Sirenix/ to see all my custom inspectors!
+
 
 # Developing
 
