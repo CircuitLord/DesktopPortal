@@ -1,0 +1,13 @@
+Font: Raleway  Style: Regular
+Point Size: 169   SP/PD Ratio: 3.0%
+
+Characters included: 97/98
+Missing characters: 1
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+ID: 8203	Hex: 200B	Char [​]
+
+Characters excluded from packing:
+----------------------------------------

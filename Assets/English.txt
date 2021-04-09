@@ -1,0 +1,28 @@
+TheBar/HoverLibraryDesc = Easily access all your SteamVR games in one place
+WindowSettings/Opacity = Opacity
+Library/HoverFilterFavoritesDesc = Filters by your "favorited" games
+SettingsApp/Sidebar/General = 
+Library/HoverFilterAllDesc = Filters by all SteamVR games
+WindowSettings/NoPointActivating = Don't use point activating
+WindowSettings/Title = WINDOW SETTINGS
+WindowSettings/Size = Size
+TheBar/HoverNewWindowTitle = New Window
+TheBar/HoverSettingsDesc = Configure aspects of Desktop Portal
+TheBar/HoverLibraryTitle = Library
+SettingsApp/Sidebar/Audio = 
+TheBar/HoverSettingsTitle = Settings
+WindowSettings/Pinned = Pinned
+SettingsApp/Sidebar/Video = 
+SettingsApp/Sidebar/Themes = Themes
+WindowSettings/Anchor = Anchor
+WindowSettings/YesPointActivating = Use point activating
+Startup/Intro = Welcome to Desktop Portal!\n\nTo get started, put on your headset, and look at your left wrist! Then, point at it with your other hand and click the button! :)
+WindowSettings/NotPinned = Not Pinned
+TheBar/HoverNewWindowDesc = Capture a window from your Desktop
+
+//Apps
+
+Library/Title = LIBRARY
+Library/FilterAll = All
+Library/FilterRevive = Revive
+Library/FilterFavorites = Favorites
