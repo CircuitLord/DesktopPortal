@@ -1,0 +1,20 @@
+[uWC::Log][2021-04-08 23:31:19] Start
+[uWC::Err][2021-04-08 23:31:21] WindowManager::GetWindow => Window whose id is 4 does not exist.
+[uWC::Err][2021-04-08 23:31:21] WindowManager::GetWindow => Window whose id is 4 does not exist.
+[uWC::Err][2021-04-08 23:31:21] WindowManager::GetWindow => Window whose id is 4 does not exist.
+[uWC::Err][2021-04-08 23:31:21] WindowManager::GetWindow => Window whose id is 4 does not exist.
+[uWC::Err][2021-04-08 23:31:21] WindowManager::GetWindow => Window whose id is 19 does not exist.
+[uWC::Err][2021-04-08 23:31:21] WindowManager::GetWindow => Window whose id is 19 does not exist.
+[uWC::Err][2021-04-08 23:31:21] WindowManager::GetWindow => Window whose id is 19 does not exist.
+[uWC::Err][2021-04-08 23:31:21] WindowManager::GetWindow => Window whose id is 19 does not exist.
+[uWC::Err][2021-04-08 23:31:21] IconTexture::CaptureOnce() => GetIconInfo() failed with error code: 1402
+[uWC::Err][2021-04-08 23:31:21] IconTexture::CaptureOnce() => GetIconInfo() failed with error code: 1402
+[uWC::Err][2021-04-08 23:31:21] IconTexture::CaptureOnce() => GetIconInfo() failed with error code: 1402
+[uWC::Err][2021-04-08 23:31:21] IconTexture::CaptureOnce() => GetIconInfo() failed with error code: 1402
+[uWC::Err][2021-04-08 23:31:21] IconTexture::CaptureOnce() => GetIconInfo() failed with error code: 1402
+[uWC::Err][2021-04-08 23:31:21] IconTexture::CaptureOnce() => GetIconInfo() failed with error code: 1402
+[uWC::Err][2021-04-08 23:31:21] IconTexture::CaptureOnce() => GetIconInfo() failed with error code: 1402
+[uWC::Err][2021-04-08 23:31:21] IconTexture::CaptureOnce() => GetIconInfo() failed with error code: 1402
+[uWC::Err][2021-04-08 23:31:21] IconTexture::CaptureOnce() => GetIconInfo() failed with error code: 1402
+[uWC::Err][2021-04-08 23:31:21] IconTexture::CaptureOnce() => GetIconInfo() failed with error code: 1402
+[uWC::Log][2021-04-08 23:32:33] Stop

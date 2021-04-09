@@ -1,0 +1,6 @@
+[submodule "Assets/Circuits/CUI"]
+	path = Assets/Circuits/CUI
+	url = https://github.com/CircuitLord/CircuitUserInterface
+[submodule "Assets/Plugins/DPCore"]
+	path = Assets/Plugins/DPCore
+	url = https://github.com/CircuitLord/DPCore

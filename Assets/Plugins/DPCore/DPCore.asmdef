@@ -1,0 +1,15 @@
+{
+    "name": "DPCore",
+    "references": [
+        "GUID:1b03c4d9c8015234c8e1780d35ce47d5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+
+General:
+What is the airspeed velocity of a controller?
+Whoa, it's (cool time here)
+
+Library:
+Players gonna play, {0}.
+SHALL WE PLAY A GAME?
+Grab some cool screenies for me, {0}.
+But this library has no books, {0}!
+
+{MOST RECENT GAME} again, USER?
+Pro choices for a Pro Gamer.
+Your last choice was most exhillerating!
+I'd pick the red one.
+What's it gonna be today, USER?
+

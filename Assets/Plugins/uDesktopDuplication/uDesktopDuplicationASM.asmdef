@@ -1,0 +1,18 @@
+{
+    "name": "uDesktopDuplicationASM",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a9815fab05be86841b142f9224b939c9",
+        "GUID:edc59bbc6a1724a44a6dc78d5f957f6c",
+        "GUID:0a5145f49f894504897ebc2595ad188b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

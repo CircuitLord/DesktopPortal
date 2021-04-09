@@ -1,0 +1,72 @@
+[uDD::Log][2021-04-08 23:31:19] Start
+[uDD::Log][2021-04-08 23:31:19] OS Version    : 10.0
+[uDD::Log][2021-04-08 23:31:19] Build Number  : 17763
+[uDD::Log][2021-04-08 23:31:19] Service Pack  : 
+[uDD::Log][2021-04-08 23:31:19] Graphics Card [0] : NVIDIA GeForce RTX 3080
+[uDD::Log][2021-04-08 23:31:19]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2021-04-08 23:31:19]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2021-04-08 23:31:19] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2021-04-08 23:31:19] Monitor::Initialized() =>
+[uDD::Log][2021-04-08 23:31:19]     ID    : 0
+[uDD::Log][2021-04-08 23:31:19]     Size  : (3440, 1440)
+[uDD::Log][2021-04-08 23:31:19]     DPI   : (110, 110)
+[uDD::Log][2021-04-08 23:31:19]     Rot   : Landscape
+[uDD::Log][2021-04-08 23:31:19] Duplicator::Initialize() => OK.
+[uDD::Log][2021-04-08 23:31:19] Monitor::Initialized() =>
+[uDD::Log][2021-04-08 23:31:19]     ID    : 1
+[uDD::Log][2021-04-08 23:31:19]     Size  : (1920, 1080)
+[uDD::Log][2021-04-08 23:31:19]     DPI   : (91, 91)
+[uDD::Log][2021-04-08 23:31:19]     Rot   : Landscape
+[uDD::Log][2021-04-08 23:31:19] Duplicator::Initialize() => OK.
+[uDD::Log][2021-04-08 23:31:22] MonitorManager::Reinitialize()
+[uDD::Log][2021-04-08 23:31:22] Graphics Card [0] : NVIDIA GeForce RTX 3080
+[uDD::Log][2021-04-08 23:31:22]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2021-04-08 23:31:22]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2021-04-08 23:31:22] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2021-04-08 23:31:22] Monitor::Initialized() =>
+[uDD::Log][2021-04-08 23:31:22]     ID    : 0
+[uDD::Log][2021-04-08 23:31:22]     Size  : (3440, 1440)
+[uDD::Log][2021-04-08 23:31:22]     DPI   : (110, 110)
+[uDD::Log][2021-04-08 23:31:22]     Rot   : Landscape
+[uDD::Log][2021-04-08 23:31:22] Duplicator::Initialize() => OK.
+[uDD::Log][2021-04-08 23:31:22] Monitor::Initialized() =>
+[uDD::Log][2021-04-08 23:31:22]     ID    : 1
+[uDD::Log][2021-04-08 23:31:22]     Size  : (1920, 1080)
+[uDD::Log][2021-04-08 23:31:22]     DPI   : (91, 91)
+[uDD::Log][2021-04-08 23:31:22]     Rot   : Landscape
+[uDD::Log][2021-04-08 23:31:22] Duplicator::Initialize() => OK.
+[uDD::Log][2021-04-08 23:31:22] MonitorManager::Reinitialize()
+[uDD::Log][2021-04-08 23:31:22] Graphics Card [0] : NVIDIA GeForce RTX 3080
+[uDD::Log][2021-04-08 23:31:22]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2021-04-08 23:31:22]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2021-04-08 23:31:22] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2021-04-08 23:31:22] Monitor::Initialized() =>
+[uDD::Log][2021-04-08 23:31:22]     ID    : 0
+[uDD::Log][2021-04-08 23:31:22]     Size  : (3440, 1440)
+[uDD::Log][2021-04-08 23:31:22]     DPI   : (110, 110)
+[uDD::Log][2021-04-08 23:31:22]     Rot   : Landscape
+[uDD::Log][2021-04-08 23:31:22] Duplicator::Initialize() => OK.
+[uDD::Log][2021-04-08 23:31:22] Monitor::Initialized() =>
+[uDD::Log][2021-04-08 23:31:22]     ID    : 1
+[uDD::Log][2021-04-08 23:31:22]     Size  : (1920, 1080)
+[uDD::Log][2021-04-08 23:31:22]     DPI   : (91, 91)
+[uDD::Log][2021-04-08 23:31:22]     Rot   : Landscape
+[uDD::Log][2021-04-08 23:31:22] Duplicator::Initialize() => OK.
+[uDD::Log][2021-04-08 23:31:22] MonitorManager::Reinitialize()
+[uDD::Log][2021-04-08 23:31:22] Graphics Card [0] : NVIDIA GeForce RTX 3080
+[uDD::Log][2021-04-08 23:31:22]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2021-04-08 23:31:22]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2021-04-08 23:31:22] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2021-04-08 23:31:22] Monitor::Initialized() =>
+[uDD::Log][2021-04-08 23:31:22]     ID    : 0
+[uDD::Log][2021-04-08 23:31:22]     Size  : (3440, 1440)
+[uDD::Log][2021-04-08 23:31:22]     DPI   : (110, 110)
+[uDD::Log][2021-04-08 23:31:22]     Rot   : Landscape
+[uDD::Log][2021-04-08 23:31:22] Duplicator::Initialize() => OK.
+[uDD::Log][2021-04-08 23:31:22] Monitor::Initialized() =>
+[uDD::Log][2021-04-08 23:31:22]     ID    : 1
+[uDD::Log][2021-04-08 23:31:22]     Size  : (1920, 1080)
+[uDD::Log][2021-04-08 23:31:22]     DPI   : (91, 91)
+[uDD::Log][2021-04-08 23:31:22]     Rot   : Landscape
+[uDD::Log][2021-04-08 23:31:22] Duplicator::Initialize() => OK.
+[uDD::Log][2021-04-08 23:32:33] Stop

@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "name": "/actions/main/in/maininteract",
+      "type": "vector1",
+      "requirement": "mandatory"
+    },
+    {
+      "name": "/actions/main/in/grab",
+      "type": "boolean",
+      "requirement": "mandatory"
+    },
+    {
+      "name": "/actions/main/in/secondaryinteract",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/main/in/joystick",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/main/in/skeletonlefthand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/left",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/main/in/skeletonrighthand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/right"
+    },
+    {
+      "name": "/actions/main/out/haptics",
+      "type": "vibration"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/main",
+      "usage": "single"
+    }
+  ],
+  "default_bindings": [
+    {
+      "controller_type": "knuckles",
+      "binding_url": "application_generated_unity_desktopportal_exe_binding_knuckles.json"
+    },
+    {
+      "controller_type": "oculus_touch",
+      "binding_url": "application_generated_unity_desktopportal_exe_binding_oculus_touch.json"
+    },
+    {
+      "controller_type": "vive_controller",
+      "binding_url": "application_generated_unity_desktopportal_exe_binding_vive_controller.json"
+    },
+    {
+      "controller_type": "holographic_controller",
+      "binding_url": "application_generated_unity_desktopportal_exe_binding_holographic_controller.json"
+    }
+  ],
+  "localization": []
+}
