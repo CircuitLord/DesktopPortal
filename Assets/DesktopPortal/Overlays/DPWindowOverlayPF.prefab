@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &783833845111611091
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2909535725957600802}
+  - component: {fileID: 43600730533056307}
+  - component: {fileID: 8926554411192858484}
+  m_Layer: 8
+  m_Name: DPWindowOverlayPF
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2909535725957600802
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 783833845111611091}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &43600730533056307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 783833845111611091}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be87a4d369220b34bb3ca2c9f1b0252b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  appKey: 
+  dpMain: {fileID: 0}
+  dpSidebar: {fileID: 0}
+  otherDPs: []
+  snapPoint: {fileID: 0}
+  state: 0
+  isCapture: 1
+  useSidebar: 0
+  isIconPersistant: 0
+  theBarButtonGO: {fileID: 0}
+  iconTex: {fileID: 0}
+--- !u!114 &8926554411192858484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 783833845111611091}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1cb2bc782c985a4a92f72142b17f8e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  forceTransformSync: 0
+  forceApplyInspectorProperties: 0
+  startOverlayTrackedDevice: 0
+  startOverlayWidth: 0.3
+  startOverlayOpacity: 1
+  startVisible: 0
+  startCurvature: 0
+  startSortOrder: 1
+  children: []
+  dpAppParent: {fileID: 0}
+  snapPoint: {fileID: 0}
+  autoPreInitialize: 0
+  isStandalone: 1
+  isStatic: 0
+  interactWhenBarClosed: 0
+  overrideAutoRenderingFPS: 0
+  fpsToCaptureAt: 30
+  isPinned: 0
+  hasBeenPreInitialized: 0
+  hasBeenInitialized: 0
+  useInteractionCollider: 1
+  isDraggable: 1
+  reverseAspect: 0
+  collider: {fileID: 0}
+  lookedAtCheck: 0
+  dpApp: {fileID: 0}
+  scalePer1000Pixel: 1
+  triggerStartClickThreshold: 0
+  triggerDoClickThreshold: 0.4
+  distToDragThreshold: 60
+  mouseMovingFastThreshold: 0.1
+  triggerBackToClickThreshold: 0.1
+  movingFastSmoothness: 0.3
+  movingSlowSmoothness: 0.05

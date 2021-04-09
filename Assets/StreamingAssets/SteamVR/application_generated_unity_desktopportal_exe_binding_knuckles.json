@@ -1,0 +1,118 @@
+{
+  "app_key": "application.generated.unity.desktopportal.exe",
+  "bindings": {
+    "/actions/main": {
+      "chords": [],
+      "poses": [],
+      "haptics": [
+        {
+          "output": "/actions/main/out/haptics",
+          "path": "/user/hand/left/output/haptic"
+        },
+        {
+          "output": "/actions/main/out/haptics",
+          "path": "/user/hand/right/output/haptic"
+        }
+      ],
+      "sources": [
+        {
+          "path": "/user/hand/left/input/trigger",
+          "mode": "trigger",
+          "parameters": {},
+          "inputs": {
+            "pull": {
+              "output": "/actions/main/in/maininteract"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/left/input/a",
+          "mode": "button",
+          "parameters": {},
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/grab"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/left/input/b",
+          "mode": "button",
+          "parameters": {},
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/secondaryinteract"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/right/input/a",
+          "mode": "button",
+          "parameters": {},
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/grab"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/right/input/b",
+          "mode": "button",
+          "parameters": {},
+          "inputs": {
+            "click": {
+              "output": "/actions/main/in/secondaryinteract"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/right/input/trigger",
+          "mode": "trigger",
+          "parameters": {},
+          "inputs": {
+            "pull": {
+              "output": "/actions/main/in/maininteract"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/left/input/thumbstick",
+          "mode": "joystick",
+          "parameters": {},
+          "inputs": {
+            "position": {
+              "output": "/actions/main/in/joystick"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/right/input/thumbstick",
+          "mode": "joystick",
+          "parameters": {},
+          "inputs": {
+            "position": {
+              "output": "/actions/main/in/joystick"
+            }
+          }
+        }
+      ],
+      "skeleton": [
+        {
+          "output": "/actions/main/in/skeletonrighthand",
+          "path": "/user/hand/left/input/skeleton/right"
+        },
+        {
+          "output": "/actions/main/in/skeletonrighthand",
+          "path": "/user/hand/right/input/skeleton/right"
+        },
+        {
+          "output": "/actions/main/in/skeletonlefthand",
+          "path": "/user/hand/left/input/skeleton/left"
+        }
+      ]
+    }
+  },
+  "controller_type": "knuckles",
+  "description": "",
+  "name": "My DesktopPortal [Testing] configuration for Index Controller"
+}

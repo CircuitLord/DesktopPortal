@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2b36438d86c51fc45b86d492df34488c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonPF: {fileID: 1132376913099288564, guid: cad23c80a58bf804cb2b3ef68d6153c2,
+      type: 3}
+  - spacerPF: {fileID: 7928907064550187937, guid: 7ee78baff2f8f764c8fa0694b395a2fe,
+      type: 3}
+  - invisibleSpacerPF: {fileID: 2354656082463139924, guid: 83722fd885557724b9c3b8108a27e23f,
+      type: 3}
+  - holder: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

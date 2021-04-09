@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: CUIAnimationConfig
+  m_EditorClassIdentifier: Assembly-CSharp:CUI:CUIAnimationConfig
+  values:
+  - anim: 1
+    changeVisibility: 1
+    show: 1
+    move: 0
+    moveDir: {x: 0, y: 0}
+    scaling: {x: 1, y: 1}
+  - anim: 2
+    changeVisibility: 1
+    show: 0
+    move: 0
+    moveDir: {x: 0, y: 0}
+    scaling: {x: 1, y: 1}
+  - anim: 3
+    changeVisibility: 1
+    show: 1
+    move: 1
+    moveDir: {x: 0, y: 1}
+    scaling: {x: 1, y: 1}
+  - anim: 4
+    changeVisibility: 1
+    show: 0
+    move: 1
+    moveDir: {x: 0, y: -1}
+    scaling: {x: 1, y: 1}
+  - anim: 5
+    changeVisibility: 1
+    show: 1
+    move: 1
+    moveDir: {x: 0, y: -1}
+    scaling: {x: 1, y: 1}
+  - anim: 6
+    changeVisibility: 1
+    show: 0
+    move: 1
+    moveDir: {x: 0, y: 1}
+    scaling: {x: 1, y: 1}
+  - anim: 7
+    changeVisibility: 1
+    show: 1
+    move: 1
+    moveDir: {x: 1, y: 0}
+    scaling: {x: 1, y: 1}
+  - anim: 8
+    changeVisibility: 1
+    show: 0
+    move: 1
+    moveDir: {x: -1, y: 0}
+    scaling: {x: 1, y: 1}
+  - anim: 9
+    changeVisibility: 1
+    show: 1
+    move: 1
+    moveDir: {x: -1, y: 0}
+    scaling: {x: 1, y: 1}
+  - anim: 10
+    changeVisibility: 1
+    show: 0
+    move: 1
+    moveDir: {x: 1, y: 0}
+    scaling: {x: 1, y: 1}

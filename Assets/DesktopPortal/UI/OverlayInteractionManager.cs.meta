@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 021ed2e5048043ddbce5755b8a5aec7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rLaserPointer: {instanceID: 0}
+  - lLaserPointer: {instanceID: 0}
+  - dummyDragChild: {instanceID: 0}
+  - previewDP: {instanceID: 0}
+  - windowBottomDP: {instanceID: 0}
+  - _windowSettings: {instanceID: 0}
+  - cursorPF: {fileID: 7564281570381200532, guid: 5400fb0e5c2550a449af7d57169f2e7c,
+      type: 3}
+  - pinImage: {instanceID: 0}
+  - pinIconNone: {instanceID: 0}
+  - pinIconFilled: {instanceID: 0}
+  - draggingDP: {instanceID: 0}
+  - primaryLaser: {instanceID: 0}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 7df9f0a8c4069fc4199b85d75ed72df7, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

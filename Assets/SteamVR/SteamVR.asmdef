@@ -1,0 +1,17 @@
+{
+    "name": "SteamVR",
+    "references": [
+        "SteamVR_Windows_EditorHelper",
+        "DPCore",
+        "OpenVR"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

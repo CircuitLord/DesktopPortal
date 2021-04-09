@@ -1,0 +1,30 @@
+{
+    "name": "DesktopPortal",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a9815fab05be86841b142f9224b939c9",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:1b03c4d9c8015234c8e1780d35ce47d5",
+        "GUID:1fbf338ef6b952a448262a7ff7df5fe4",
+        "GUID:b81ab46481ab5a344a8296980fc56c86",
+        "GUID:17134ae98e9733a499d4d56aefcc0a44",
+        "GUID:0a5145f49f894504897ebc2595ad188b",
+        "GUID:c70a81faa7a46014ab4cbbf29e10ff5b",
+        "GUID:edc59bbc6a1724a44a6dc78d5f957f6c",
+        "GUID:46d97b88d397b1b429db9c93fc292f3b",
+        "GUID:7010c9cb09b74e24199f063b18e328ee",
+        "GUID:dba461ebb865f6e4f98bbc03c9f3ae0c",
+        "GUID:003a82c43c4f74b598c506a4c1f0e492",
+        "GUID:8a09d079da43af248afd0ae5c201a762",
+        "GUID:26771afdb819cad4a8ce9842fd2ec348"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

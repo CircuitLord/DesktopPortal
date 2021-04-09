@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2217974854620160298
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2217974854620160297}
+  - component: {fileID: 2217974854620160296}
+  m_Layer: 0
+  m_Name: Overlay
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2217974854620160297
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2217974854620160298}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2217974855442586193}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2217974854620160296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2217974854620160298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1df2eabd49540eeb8aa6ae85ff24799, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enableDebug: 0
+  forceTransformSync: 0
+  forceApplyInspectorProperties: 0
+  startOverlayTrackedDevice: 0
+  startOverlayWidth: 0.5
+  startOverlayOpacity: 1
+  startVisible: 0
+  startCurvature: 0
+  startSortOrder: 2
+  startTextureBounds: {x: 0, y: 0, z: 1, w: 1}
+  startUseSBS: 0
+  startSBSCrossedMode: 0
+  parent: {fileID: 0}
+  dpAppParent: {fileID: 0}
+  snapPoint: {fileID: 0}
+  snapPointQueuedToResize: 0
+  autoPreInitialize: 0
+  showToolbar: 1
+  isPinned: 0
+  useLookHiding: 0
+  lookHidingFaceHMD: 1
+  lookHidingFaceOverlay: 1
+  lookHidingStrength: 0.7
+  lookHidingOpacity: 0.1
+  useDistanceHiding: 0
+  distanceHidingDistance: 1
+  distanceHidingOpacity: 0.1
+  useWindowCropping: 0
+  cropAmount: {x: 0, y: 0, z: 0, w: 0}
+  maxOverlayWidth: -1
+  _useSmoothAnchoring: 0
+  smoothAnchoringStrength: 3
+  smoothAnchoringTarget: {fileID: 0}
+  smoothAnchoringTrackedDevice: 0
+  _useSnapAnchoring: 0
+  snapAnchoringDistance: 0.4
+  snapAnchoringNormalizeRot: 1
+  snapAnchoringTarget: {fileID: 0}
+  snapAnchoringTrackedDevice: 0
+  isAnchoredToTheBar: 0
+  isAnimatingForceHighFPS: 0
+  hasBeenPreInitialized: 0
+  hasBeenInitialized: 0
+  isInteractable: 1
+  canUseSnapPoints: 1
+  allowMultipuleInteractors: 0
+  isResponsive: 1
+  _alwaysInteract: 0
+  useTouchInput: 1
+  isDraggable: 1
+  canBeCurvedWhenDragged: 1
+  isChild: 0
+  followParentScale: 1
+  followParentPointInteraction: 1
+  followParentOpacity: 1
+  children: []
+  renderWhenInteractedWith: 1
+  renderWhenLookedAt: 0
+  isStatic: 0
+  forceHighCaptureFramerate: 0
+  fpsToCaptureAt: 30
+  idleFPSToCatureAt: 1
+  currentTexture: {fileID: 0}
+  reverseAspect: 0
+  textureBounds: {x: 0, y: 0, z: 0, w: 0}
+  lookedAtCheck: 0
+  loaded: 0
+  queuedToRenderMonitor: 0
+  isTargetingWindow: 0
+  triggerStartClickThreshold: 0
+  triggerDoClickThreshold: 0.4
+  distToDragThreshold: 60
+  mouseMovingFastThreshold: 0.1
+  triggerBackToClickThreshold: 0.1
+--- !u!1 &2217974855442586194
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2217974855442586193}
+  - component: {fileID: 2217974855442586192}
+  m_Layer: 0
+  m_Name: DPDesktopOverlayPF
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2217974855442586193
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2217974855442586194}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2217974854620160297}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2217974855442586192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2217974855442586194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be87a4d369220b34bb3ca2c9f1b0252b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  appKey: 
+  title: 
+  dpMain: {fileID: 2217974854620160296}
+  dpTopBar: {fileID: 0}
+  otherDPs: []
+  snapPoint: {fileID: 0}
+  isSlideoutOnly: 0
+  isCapture: 1
+  useTopBar: 0
+  windowListButtonGO: {fileID: 0}
+  iconTex: {fileID: 0}
+  isMinimized: 1
+  isInitialized: 0
