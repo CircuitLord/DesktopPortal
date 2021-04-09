@@ -21,6 +21,8 @@ Desktop Portal is an advanced Addon for SteamVR, with a suite of tools that make
 
 And now, newly open sourced!
 
+NOTE: I apologize for any missing icons/off colors. I had to remove a bunch of paid third party assets that included icons and UI components I was using in order to make this properly open source.
+
 
 # Developing
 
