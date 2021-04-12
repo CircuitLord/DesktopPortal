@@ -36,6 +36,8 @@ Also, this project optionally uses Odin Inspector! If you have it, simply add it
 4. Ensure you have a SteamVR compatibile headset connected and running, and press play. (NOTE: do not install the admin task it prompts from in the editor)
 5. Press play, click the button on your left hand, and profit. Refer to the quickstart guide to see how to use it.
 
+NOTE: One other step you may need to take is opening the .vrmanifest file in the project root, and updating the path to what it is on your PC.
+
 ## Contributing
 
 tbd
